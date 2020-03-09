@@ -7,29 +7,24 @@ padding:10px;
 font-family: arial;
 text-align: center;}
 
-.btn{height:30px;
-width:90px;
+.btn{height:50px;
+width:150px;
+font-size: 18px;
 color:#ffffff;
 background-color: dodgerblue;
 border:none;
 padding:5px;
 border-radius: 5px;}
 
-.card{padding:15px;
-margin:auto;
-max-width:300px;
-max-height:150px;
+.card{padding:15px 30px 15px 30px;
+margin:40px auto;
+max-width:500px;
+max-height:250px;
 text-align: center;
 background-color: #ffffff;
 border-radius: 5px;} 
 
-h3{color:dodgerblue;
-font-family: helvetica;}
-.quote{
-margin:30px 10px 10px 10px;
-padding:15px;
-font-family: segoe ui;
-background-color: #f2f2f2;}
+p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
 
 img{height:25px;
 width:25px;

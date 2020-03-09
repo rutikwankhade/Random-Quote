@@ -40,8 +40,8 @@ function displayQuote(){
    
     //display the quote of that index
     let div=document.querySelector('#quote');
-    let quote=`<div class="quote">
-    <h6>'${quotes[index]}'</h6>
+    let quote=`<div class="card">
+    <p>${quotes[index]}</p>
     <img src="icons/favicon.png">
     </div>`;
     div.innerHTML=quote;
