@@ -1,10 +1,12 @@
-.content{margin:auto;
-max-width:500px;
-}
+.content{margin:auto;}
+body{background-color: indigo;}
+
+
 h2{background-color: #1c1c1c;
 color:#ffffff;
 padding:10px;
-font-family: arial;}
+font-family: arial;
+text-align: center;}
 
 .btn{height:30px;
 width:90px;
@@ -14,9 +16,13 @@ border:none;
 padding:5px;
 border-radius: 5px;}
 
-.card{padding:20px;
-margin:20px;
-border:solid #f2f2f2 2px;}
+ .card{padding:15px;
+margin:auto;
+max-width:300px;
+max-height:150px;
+text-align: center;
+background-color: #ffffff;
+border-radius: 5px;} 
 
 h3{color:dodgerblue;
 font-family: helvetica;}
