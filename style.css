@@ -24,7 +24,9 @@ text-align: center;
 background-color: #ffffff;
 border-radius: 5px;} 
 
-p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-weight:400;
+font-size: 20px;}
 
 img{height:25px;
 width:25px;
