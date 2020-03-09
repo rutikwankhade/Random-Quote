@@ -1,4 +1,4 @@
-#### Random Quote
+# Random Quote
 A simple random quote generator
 [view demo]()
 
