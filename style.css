@@ -1,0 +1,22 @@
+.content{margin:auto;
+max-width:500px;
+}
+h1{background-color: #1c1c1c;
+color:#ffffff;
+padding:10px;
+font-family: arial;}
+
+.btn{height:30px;
+width:90px;
+color:#ffffff;
+background-color: dodgerblue;
+border:none;
+padding:5px;
+border-radius: 5px;}
+
+.card{padding:20px;
+margin:20px;
+border:solid #f2f2f2 2px;}
+
+h3{color:dodgerblue;
+font-family: helvetica;}
