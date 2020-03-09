@@ -1,5 +1,5 @@
 # Random Quote
 A simple random quote generator
-[view demo]()
+[view demo](https://random-quotesforu.netlify.com/)
 
 Read a blog about it [here]()
