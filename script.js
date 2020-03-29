@@ -30,13 +30,13 @@ let quotes=[
 ];
 
 
-let btn=document.querySelector('.btn');
-btn.addEventListener('click', displayQuote);
+// let btn=document.querySelector('.btn');
+// btn.addEventListener('click', displayQuote);
 
 function displayQuote(){
     //create an index of a random number 
-    //convert it into between 0 to 24
-    let index=Math.floor(Math.random()*24);
+    //convert it into between 0 to length of quotes[]
+    let index=Math.floor(Math.random()*quotes.length);
    
     //display the quote of that index
     let div=document.querySelector('#quote');
@@ -44,7 +44,10 @@ function displayQuote(){
     <img src="icons/favicon.png">
     <p>${quotes[index]}</p>
     <img src="icons/favicon.png">
-    </div>`;
+   </div>
+
+    `;
     div.innerHTML=quote;
     
 }
+
