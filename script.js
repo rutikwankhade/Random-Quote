@@ -50,4 +50,7 @@ function displayQuote(){
     div.innerHTML=quote;
     
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> dd8e4526364080c49854c3ad0c94d84c8ae88678
