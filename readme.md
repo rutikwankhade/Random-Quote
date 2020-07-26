@@ -1,4 +1,4 @@
-#💬 Random Quote
+# 💬 Random Quote
 A simple random programming quotes generator
 
 ![random quote](https://user-images.githubusercontent.com/47467468/88476802-fc964680-cf58-11ea-9413-64ac4c87fa38.png)
