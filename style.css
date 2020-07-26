@@ -1,45 +1,49 @@
-body{background-color: indigo;
-    margin:auto;}
+body {
+    background-color: #8c1aff;
+    
+   }
+.content{max-width: 600px;
+    padding:20px;
+    margin:auto;
+justify-content: center;
+align-items: center;}
+h2 {
+    background-color: #4a4be7;
+    color:#ffffff;
+    padding:10px;
+    font-family: arial;
+    text-align: center;
+    border-radius:5px;
+    box-shadow: 4px 4px #ee9be4;
+}
 
-h2{background-color: #1c1c1c;
-color:#ffffff;
-padding:10px;
-font-family: arial;
-text-align: center;}
-
-.btn{height:50px;
-width:150px;
-font-size: 18px;
-color:#ffffff;
-background-color: dodgerblue;
-border:none;
-padding:5px;
-border-radius: 5px;}
+.btn{
+    height:50px;
+    width:150px;
+    font-size: 18px;
+    color:#ffffff;
+    background-color: #ee9be4;
+    box-shadow: 4px 4px #4a4be7;
+    padding:5px;
+    border-radius: 5px;}
 
 .card{padding:15px 30px 15px 30px;
-margin:40px auto;
 max-width:500px;
 max-height:300px;
 text-align: center;
-background-color: #ffffff;
+background-color: #f2e6ff;
 border-radius: 5px;
+border-top: #ee9be4 5px;
+margin-top: 20px;
 } 
+button:focus {
+    outline: none;
+}
 
-p{font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-weight:400;
+p{font-family:Segoe UI;
 font-size: 20px;}
 
 img{height:25px;
 width:25px;
 }
-/* .btn1{height:40px;
-    width:120px;
-    font-size: 18px;
-    background-color:#ffffff;
-    color: indigo;
-    border:none;
-    padding:5px;
-    border-radius: 5px;
-
-} */
 
