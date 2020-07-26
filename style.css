@@ -1,12 +1,11 @@
-body {
-    background-color: #8c1aff;
-    
-   }
-.content{max-width: 600px;
+body {background-color: #8c1aff;}
+
+.content{
+    max-width: 600px;
     padding:20px;
     margin:auto;
-justify-content: center;
-align-items: center;}
+    justify-content: center;
+    align-items: center;}
 h2 {
     background-color: #4a4be7;
     color:#ffffff;
@@ -27,23 +26,21 @@ h2 {
     padding:5px;
     border-radius: 5px;}
 
-.card{padding:15px 30px 15px 30px;
-max-width:500px;
-max-height:300px;
-text-align: center;
-background-color: #f2e6ff;
-border-radius: 5px;
-border-top: #ee9be4 5px;
-margin-top: 20px;
-} 
-button:focus {
-    outline: none;
-}
+.card{
+    padding:15px 30px 15px 30px;
+    max-width:500px;
+    max-height:300px;
+    text-align: center;
+    background-color: #f2e6ff;
+    border-radius: 5px;
+    border-top: #ee9be4 5px;
+    margin-top: 20px;
+    } 
+button:focus {outline: none;}
 
-p{font-family:Segoe UI;
-font-size: 20px;}
+p{
+  font-family:Segoe UI;
+  font-size: 20px;}
 
-img{height:25px;
-width:25px;
-}
+img{height:25px;width:25px;}
 
